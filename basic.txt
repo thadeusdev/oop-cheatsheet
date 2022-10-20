@@ -1,0 +1,8 @@
+# Basics of OOP in Ruby
+    1. Classes and instances
+    2. The new class method
+    3. Instance methods
+    4. Local variables and instance variables
+    5. Object Attributes
+    6. Setter and Getter Methods
+    7. Setting instance variables from initialize
